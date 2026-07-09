@@ -51,14 +51,14 @@ Jakarta, Juli 2026
 
 ## Daftar Isi
 
-- Bab 1 — Pendahuluan
-- Bab 2 — Deskripsi Umum Sistem
-- Bab 3 — Petunjuk Penggunaan
-- Bab 4 — Panduan Membaca Grafik dan Visualisasi
-- Bab 5 — Kamus Data dan Definisi Indikator
-- Bab 6 — FAQ dan Penanganan Kendala
-- Bab 7 — Catatan tentang Analisis AI
-- Lampiran
+- [Bab 1 — Pendahuluan](#bab-1--pendahuluan)
+- [Bab 2 — Deskripsi Umum Sistem](#bab-2--deskripsi-umum-sistem)
+- [Bab 3 — Petunjuk Penggunaan](#bab-3--petunjuk-penggunaan)
+- [Bab 4 — Panduan Membaca Grafik dan Visualisasi](#bab-4--panduan-membaca-grafik-dan-visualisasi)
+- [Bab 5 — Kamus Data dan Definisi Indikator](#bab-5--kamus-data-dan-definisi-indikator)
+- [Bab 6 — FAQ dan Penanganan Kendala](#bab-6--faq-dan-penanganan-kendala)
+- [Bab 7 — Catatan tentang Analisis AI](#bab-7--catatan-tentang-analisis-ai)
+- [Lampiran](#lampiran)
 
 <!-- Daftar isi + daftar gambar dengan nomor halaman digenerate saat ekspor PDF -->
 
